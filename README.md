@@ -1,0 +1,2 @@
+# pluralsightApp
+angular app project
